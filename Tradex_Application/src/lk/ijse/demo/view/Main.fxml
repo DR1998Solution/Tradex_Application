@@ -6,9 +6,18 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
+<!--
+  ~ /*
+  ~  *
+  ~  *   Copyright (c) 2021. DR Corporation. All rights reserved.
+  ~  *   Licensed under the MIT License. See License.txt in the project root for license information
+  ~  *
+  ~  */
+  -->
+
 <AnchorPane xmlns="http://javafx.com/javafx"
             xmlns:fx="http://javafx.com/fxml"
-            fx:controller="controller.CustomerPageController"
+            fx:controller="lk.ijse.demo.controller.MainController"
             prefHeight="400.0" prefWidth="600.0">
 
 </AnchorPane>

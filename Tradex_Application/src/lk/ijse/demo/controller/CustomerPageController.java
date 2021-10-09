@@ -7,13 +7,12 @@
  *
  */
 
-package controller;
-
+package lk.ijse.demo.controller;
 /**
  * @author Dilshan Rajika Withanachchi <dilshanrajitha1998@gmail.com>
- * @Time :8:58 AM
+ * @Time :8:56 AM
  * @Date :2021-10-09/Oct
  * @Project Name :Tradex_Application
  */
-public class ItemPageController {
+public class CustomerPageController {
 }
