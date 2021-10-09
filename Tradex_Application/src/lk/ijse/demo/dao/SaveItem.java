@@ -23,7 +23,7 @@ public class SaveItem {
     public static void   saveItem(String id ,String description){
         try {
             boolean execute = CrudUtil.execute("INSERT INTO Item VALUES(?,?)",id,description);
-            System.out.println(execute);
+
         } catch (SQLException e) {
             e.printStackTrace();
         } catch (ClassNotFoundException e) {
